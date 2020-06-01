@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "ts-node src/index.ts",
     "clean": "rimraf ./dist",
-    "build": "rimraf ./dist && tsc",
     "start": "ts-node src/index.ts"
   },
   "keywords": [],
