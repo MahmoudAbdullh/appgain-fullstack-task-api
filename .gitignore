@@ -4,5 +4,7 @@
 # production
 /build
 #
-/src
+#
+.env.development
+
 package-lock.json
